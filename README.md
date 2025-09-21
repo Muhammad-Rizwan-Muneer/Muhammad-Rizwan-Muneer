@@ -1,4 +1,4 @@
-# Rizwan  
+# Muhammad Rizwan Muneer
 
 **AI/ML Engineer | Full-Stack Web Dev | Problem Solver**
 
