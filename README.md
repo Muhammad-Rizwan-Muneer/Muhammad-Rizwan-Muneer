@@ -11,7 +11,7 @@
 
 ## 👋 About Me  
 
-Dedicated **Full-Stack AI/ML Developer** with a strong foundation in **Python, front-end, and back-end technologies**.  
+Dedicated **Full-Stack AI/ML Developer** with a strong foundation in **Python, front-end, and back-end technologies**.Currently pursuing my undergraduate degree at Lahore Garrison University with a 3.16/4.0 CGPA 
 Passionate about designing and deploying **intelligent, data-driven applications** that solve real-world problems.
 
 ---
