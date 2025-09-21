@@ -1,16 +1,18 @@
-## Hi there 👋
+# Rizwan  
 
-<!--
-**Muhammad-Rizwan-Muneer/Muhammad-Rizwan-Muneer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer | Full-Stack Web Dev | Problem Solver**
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-rizwan-muneer-770b442a5)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fa22-bscs-008@lgu.edu.pk)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/YourGitHubUsername)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 👋 About Me  
+
+Dedicated **Full-Stack AI/ML Developer** with a strong foundation in **Python, front-end, and back-end technologies**.  
+Passionate about designing and deploying **intelligent, data-driven applications** that solve real-world problems.
+
+---
+
